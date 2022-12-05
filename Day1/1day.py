@@ -1,4 +1,4 @@
-file = open(r"C:\Users\rizar\Documents\PY PROGRAMMING\AdventCode2022\day1\input1.txt", "r")
+file = open(r"C:\Users\rizar\Documents\PY PROGRAMMING\AdventofCode2022\day1\input1.txt", "r")
 output = [0]
 
 def part1():

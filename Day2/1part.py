@@ -1,4 +1,4 @@
-file = open(r"C:\\Users\\rizar\\Documents\\PY PROGRAMMING\\AdventCode2022\\day2\\input2.txt","r")
+file = open(r"C:\\Users\\rizar\\Documents\\PY PROGRAMMING\\AdventofCode2022\\day2\\input2.txt","r")
 
 def part1():
     score = 0
