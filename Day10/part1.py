@@ -5,7 +5,7 @@ def checkCycle(i,x):
         return 0
 
 def part1():
-    file = open('input.txt','r')
+    file = open('input10','r')
     i = 1
     x = 1
     output = 0
